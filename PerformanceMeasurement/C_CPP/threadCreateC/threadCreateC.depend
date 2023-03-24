@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673913836 source:d:\codeblocks\savedirectory\a\ssc\threadcreatec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<pthread.h>
+
